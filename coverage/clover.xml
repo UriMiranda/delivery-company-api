@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1676573163937" clover="3.2.0">
+  <project timestamp="1676573163937" name="All files">
+    <metrics statements="287" coveredstatements="223" conditionals="120" coveredconditionals="77" methods="166" coveredmethods="132" elements="573" coveredelements="432" complexity="0" loc="287" ncloc="287" packages="10" files="41" classes="41"/>
+    <package name="modules.allocations.domain.assets">
+      <metrics statements="10" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="6"/>
+      <file name="asset.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/allocations/domain/assets/asset.ts">
+        <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+      </file>
+      <file name="assetId.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/allocations/domain/assets/assetId.ts">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+      <file name="assetRegistrationNumber.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/allocations/domain/assets/assetRegistrationNumber.ts">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="modules.allocations.domain.staff">
+      <metrics statements="29" coveredstatements="23" conditionals="4" coveredconditionals="4" methods="23" coveredmethods="17"/>
+      <file name="index.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/allocations/domain/staff/index.ts">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="2"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+      </file>
+      <file name="staffBirthday.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/allocations/domain/staff/staffBirthday.ts">
+        <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="4"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="29" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+      <file name="staffDriverLicense.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/allocations/domain/staff/staffDriverLicense.ts">
+        <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="6"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="36" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="39" count="3" type="stmt"/>
+      </file>
+      <file name="staffId.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/allocations/domain/staff/staffId.ts">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+      <file name="staffName.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/allocations/domain/staff/staffName.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="modules.deliveries.domain">
+      <metrics statements="93" coveredstatements="81" conditionals="22" coveredconditionals="20" methods="76" coveredmethods="65"/>
+      <file name="delivery.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/delivery.ts">
+        <metrics statements="7" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="4"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="52" count="8" type="stmt"/>
+      </file>
+      <file name="deliveryId.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/deliveryId.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="11" type="stmt"/>
+        <line num="15" count="11" type="stmt"/>
+      </file>
+      <file name="deliveryIntinerary.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/deliveryIntinerary.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="10" coveredconditionals="9" methods="6" coveredmethods="6"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="9" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="31" count="22" type="cond" truecount="3" falsecount="1"/>
+        <line num="32" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="20" type="stmt"/>
+        <line num="37" count="11" type="cond" truecount="4" falsecount="0"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="41" count="9" type="stmt"/>
+      </file>
+      <file name="deliveryPrice.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/deliveryPrice.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+      </file>
+      <file name="employee.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/employee.ts">
+        <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="7"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+      </file>
+      <file name="employeeId.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/employeeId.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+      </file>
+      <file name="employeeRevenuePercentage.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/employeeRevenuePercentage.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="18" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="23" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+      </file>
+      <file name="location.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/location.ts">
+        <metrics statements="12" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="6"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="27" count="12" type="stmt"/>
+        <line num="31" count="12" type="stmt"/>
+        <line num="32" count="12" type="stmt"/>
+        <line num="33" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="12" type="cond" truecount="1" falsecount="1"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="12" type="stmt"/>
+      </file>
+      <file name="vehicle.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/vehicle.ts">
+        <metrics statements="7" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="2"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+      </file>
+      <file name="vehicleBrand.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/vehicleBrand.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+      </file>
+      <file name="vehicleColor.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/vehicleColor.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+      </file>
+      <file name="vehicleDetails.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/vehicleDetails.ts">
+        <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="7"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="55" count="4" type="stmt"/>
+      </file>
+      <file name="vehicleId.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/vehicleId.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+      </file>
+      <file name="vehicleName.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/vehicleName.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+      </file>
+      <file name="vehiclePlate.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/vehiclePlate.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="22" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+      </file>
+      <file name="vehicleYear.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/vehicleYear.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="22" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="modules.deliveries.domain.services">
+      <metrics statements="15" coveredstatements="15" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="deliveryService.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/domain/services/deliveryService.ts">
+        <metrics statements="15" coveredstatements="15" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="modules.deliveries.useCases.createDelivery">
+      <metrics statements="17" coveredstatements="15" conditionals="8" coveredconditionals="6" methods="2" coveredmethods="2"/>
+      <file name="CreateDelivery.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/useCases/createDelivery/CreateDelivery.ts">
+        <metrics statements="17" coveredstatements="15" conditionals="8" coveredconditionals="6" methods="2" coveredmethods="2"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="22" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="37" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="42" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="48" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="modules.deliveries.useCases.getDeliveryById">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="GetDeliveryById.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/useCases/getDeliveryById/GetDeliveryById.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="GetDeliveryByIdErrors.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/deliveries/useCases/getDeliveryById/GetDeliveryByIdErrors.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="modules.users.domain">
+      <metrics statements="37" coveredstatements="37" conditionals="20" coveredconditionals="16" methods="18" coveredmethods="18"/>
+      <file name="user.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/users/domain/user.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="userDocumetId.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/users/domain/userDocumetId.ts">
+        <metrics statements="18" coveredstatements="18" conditionals="16" coveredconditionals="12" methods="5" coveredmethods="5"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="21" count="7" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="63" type="stmt"/>
+        <line num="24" count="7" type="stmt"/>
+        <line num="26" count="7" type="cond" truecount="3" falsecount="1"/>
+        <line num="27" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="30" count="60" type="stmt"/>
+        <line num="31" count="6" type="stmt"/>
+        <line num="33" count="6" type="cond" truecount="3" falsecount="1"/>
+        <line num="34" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="39" count="6" type="stmt"/>
+        <line num="43" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="46" count="6" type="stmt"/>
+      </file>
+      <file name="userEmail.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/users/domain/userEmail.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="27" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="6" type="stmt"/>
+      </file>
+      <file name="userId.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/users/domain/userId.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+      <file name="userName.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/users/domain/userName.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="22" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="modules.users.useCases.createUser">
+      <metrics statements="7" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="createUserUseCase.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/modules/users/useCases/createUser/createUserUseCase.ts">
+        <metrics statements="7" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="shared.core">
+      <metrics statements="58" coveredstatements="31" conditionals="41" coveredconditionals="19" methods="23" coveredmethods="15"/>
+      <file name="Guard.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/shared/core/Guard.ts">
+        <metrics statements="31" coveredstatements="10" conditionals="26" coveredconditionals="8" methods="9" coveredmethods="3"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="43" count="4" type="stmt"/>
+        <line num="45" count="4" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="52" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="66" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="74" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="75" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="87" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="90" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+      </file>
+      <file name="Result.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/shared/core/Result.ts">
+        <metrics statements="27" coveredstatements="21" conditionals="15" coveredconditionals="11" methods="14" coveredmethods="12"/>
+        <line num="8" count="166" type="cond" truecount="3" falsecount="1"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="166" type="cond" truecount="3" falsecount="1"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="166" type="stmt"/>
+        <line num="15" count="166" type="stmt"/>
+        <line num="16" count="166" type="stmt"/>
+        <line num="17" count="166" type="stmt"/>
+        <line num="19" count="166" type="stmt"/>
+        <line num="23" count="123" type="cond" truecount="4" falsecount="1"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="123" type="stmt"/>
+        <line num="32" count="6" type="stmt"/>
+        <line num="36" count="149" type="stmt"/>
+        <line num="40" count="16" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="77" count="34" type="stmt"/>
+        <line num="78" count="3" type="stmt"/>
+        <line num="81" count="34" type="stmt"/>
+        <line num="82" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="shared.domain">
+      <metrics statements="16" coveredstatements="5" conditionals="16" coveredconditionals="4" methods="9" coveredmethods="4"/>
+      <file name="AggregateRoot.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/shared/domain/AggregateRoot.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+      <file name="Entity.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/shared/domain/Entity.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="8" count="41" type="stmt"/>
+        <line num="9" count="41" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="Indetifier.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/shared/domain/Indetifier.ts">
+        <metrics statements="7" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+      <file name="UniqueEntityID.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/shared/domain/UniqueEntityID.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="5" count="41" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="ValueObject.ts" path="/Users/urielmiranda/Projects/Estudos/moto-frete-api/src/shared/domain/ValueObject.ts">
+        <metrics statements="5" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="9" count="91" type="stmt"/>
+        <line num="12" count="91" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
